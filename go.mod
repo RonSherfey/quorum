@@ -46,7 +46,7 @@ require (
 	github.com/golang/protobuf v1.3.4
 	github.com/golang/snappy v0.0.1
 	github.com/google/go-cmp v0.3.1 // indirect
-	github.com/gorilla/websocket v1.4.1-0.20190629185528-ae1634f6a989
+	github.com/gorilla/websocket v1.5.3
 	github.com/graph-gophers/graphql-go v0.0.0-20191115155744-f33e81362277
 	github.com/hashicorp/go-hclog v0.13.0
 	github.com/hashicorp/go-plugin v1.2.2
